@@ -8,7 +8,9 @@ This is the result of NRGlassNet:
 
 <img width="638" alt="image" src="./imgs/res.png">
 
-Our RLMB dataset can be download from the following link:
+Our RLMB dataset can be download from the following
+link:https://pan.baidu.com/s/1oLCwZVvToqkBwnM_p2QA6Q 
+password:2da8
 
 
 
