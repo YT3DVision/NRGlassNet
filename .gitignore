@@ -1,6 +1,6 @@
 
 *.jpg
-*.png
+#*.png
 *.jpeg
 *.gif
 *.bmp
