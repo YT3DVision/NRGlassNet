@@ -11,7 +11,8 @@
 <img width="638" alt="image" src="./imgs/res.png">
 
 **Our RNGD dataset can be download from the following
-link:https://pan.baidu.com/s/1oLCwZVvToqkBwnM_p2QA6Q. password:2da8**
+link:https://pan.baidu.com/s/1oLCwZVvToqkBwnM_p2QA6Q.** 
+**Password:2da8**
 
 
 
