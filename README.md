@@ -13,9 +13,3 @@
 **Our RNGD dataset can be download from the following
 link:https://pan.baidu.com/s/1oLCwZVvToqkBwnM_p2QA6Q.** 
 **Password:2da8**
-
-
-
-**Contact** <br />
-
-If you have any questions, please contact yan.tao@outlook.com
