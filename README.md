@@ -4,11 +4,11 @@
 
 **The architecture of our proposed NRGlassNet.**
 
-<img width="638" alt="image" src="./imgs/network.png">
+<img width="1000" alt="image" src="./imgs/network.png">
 
 **The results of NRGlassNet:**
 
-<img width="638" alt="image" src="./imgs/res.png">
+<img width="1000" alt="image" src="./imgs/res.png">
 
 **Our RNGD dataset can be download from the following
 link:https://pan.baidu.com/s/1oLCwZVvToqkBwnM_p2QA6Q.** 
